@@ -9,6 +9,8 @@ data.
 The below data visualization shows why there is risk of taking flight in
 low temperatures.
 
+![](ChallengerVisualization.png)
+
 As one can see, its clear that as the temperature gets lower the number
 of distressed o-rings increases. Not only does this increase, but the
 damage index also increases, as shown on the left-hand side legend. This
