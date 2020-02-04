@@ -2,12 +2,11 @@
 
 #### We know the challenger blew up. There was a conflict the night before between two groups of engineers. One group was trying to explain why it shouldn’t launch….The info is in this data. Create a better data visualization to explain why it isn’t a good idea to launch that day.
 
-<<<<<<< HEAD
   - I renamed the columns from V1-V5 to new column names accordingly.
 
   - I took the Damage Index column from Chip’s email and cbinded it into
     the rest of the Challenger data.
-=======
+    
 ### Assignment 3 Description: 
 We know the challenger blew up. There was a conflict the night before between two groups of engineers. One group was trying to explain why it shouldn’t launch….The info is in this data. Create a better data visualization to explain why it isn’t a good idea to launch that day.
 >>>>>>> b93dc89494eec381f39c09fb5ae1dfaca203ab77
